@@ -1,10 +1,5 @@
 [
   {
-    "id": "Lebensmittel -> To-Go-6920583",
-    "code": "30",
-    "url": "https://www.mpreis.at/shop/c/6920583"
-  },
-  {
     "id": "Lebensmittel -> To-Go -> Sandwiches & Wraps-42115933",
     "code": "30",
     "url": "https://www.mpreis.at/shop/c/42115933"
@@ -115,11 +110,6 @@
     "url": "https://www.mpreis.at/shop/c/30698765"
   },
   {
-    "id": "Lebensmittel -> Obst -> Steinobst-44669355",
-    "code": "00",
-    "url": "https://www.mpreis.at/shop/c/44669355"
-  },
-  {
     "id": "Lebensmittel -> Obst -> Früchte To-Go-36503369",
     "code": "00",
     "url": "https://www.mpreis.at/shop/c/36503369"
@@ -208,26 +198,6 @@
     "id": "Lebensmittel -> Milch & Eier -> Butter-48723246",
     "code": "34",
     "url": "https://www.mpreis.at/shop/c/48723246"
-  },
-  {
-    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Suppen-45429089",
-    "code": "57",
-    "url": "https://www.mpreis.at/shop/c/45429089"
-  },
-  {
-    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Saucen-18573555",
-    "code": "57",
-    "url": "https://www.mpreis.at/shop/c/18573555"
-  },
-  {
-    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Konserven-30932656",
-    "code": "57",
-    "url": "https://www.mpreis.at/shop/c/30932656"
-  },
-  {
-    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Fertiggerichte-5812424",
-    "code": "54",
-    "url": "https://www.mpreis.at/shop/c/5812424"
   },
   {
     "id": "Lebensmittel -> Konserven, Fertiggerichte & Suppen -> Suppen-45429089",
@@ -405,11 +375,6 @@
     "url": "https://www.mpreis.at/shop/c/49778040"
   },
   {
-    "id": "Lebensmittel -> Fisch -> Fisch-49778040",
-    "code": "39",
-    "url": "https://www.mpreis.at/shop/c/49778040"
-  },
-  {
     "id": "Lebensmittel -> Brot & Gebäck -> Zopf, Brioche & Strudel-15366775",
     "code": "13",
     "url": "https://www.mpreis.at/shop/c/15366775"
@@ -495,11 +460,6 @@
     "url": "https://www.mpreis.at/shop/c/23353519"
   },
   {
-    "id": "Getränke -> Spirituosen -> Wermut-19370553",
-    "code": "24",
-    "url": "https://www.mpreis.at/shop/c/19370553"
-  },
-  {
     "id": "Getränke -> Spirituosen -> Tequila-23434214",
     "code": "24",
     "url": "https://www.mpreis.at/shop/c/23434214"
@@ -550,11 +510,6 @@
     "url": "https://www.mpreis.at/shop/c/40175079"
   },
   {
-    "id": "Getränke -> Sirup-5799806",
-    "code": "20",
-    "url": "https://www.mpreis.at/shop/c/5799806"
-  },
-  {
     "id": "Getränke -> Säfte & Sirup -> Sirup-5799806",
     "code": "20",
     "url": "https://www.mpreis.at/shop/c/5799806"
@@ -570,11 +525,6 @@
     "url": "https://www.mpreis.at/shop/c/31049130"
   },
   {
-    "id": "Getränke -> Mineralwasser-6363171",
-    "code": "26",
-    "url": "https://www.mpreis.at/shop/c/6363171"
-  },
-  {
     "id": "Getränke -> Kaffee, Tee & Kakao -> Tee-15799006",
     "code": "22",
     "url": "https://www.mpreis.at/shop/c/15799006"
@@ -588,16 +538,6 @@
     "id": "Getränke -> Kaffee, Tee & Kakao -> Kaffee-20845561",
     "code": "22",
     "url": "https://www.mpreis.at/shop/c/20845561"
-  },
-  {
-    "id": "Getränke -> Eistee-14897036",
-    "code": "20",
-    "url": "https://www.mpreis.at/shop/c/14897036"
-  },
-  {
-    "id": "Getränke -> Cola & Limonaden-29236807",
-    "code": "20",
-    "url": "https://www.mpreis.at/shop/c/29236807"
   },
   {
     "id": "Getränke -> Bier -> Radler-47039550",
@@ -630,19 +570,9 @@
     "url": "https://www.mpreis.at/shop/c/29619354"
   },
   {
-    "id": "Drogerie -> Tchibo – Eduscho-51492995",
-    "code": "22",
-    "url": "https://www.mpreis.at/shop/c/51492995"
-  },
-  {
     "id": "Drogerie -> Tchibo - Eduscho-51492995",
     "code": "22",
     "url": "https://www.mpreis.at/shop/c/51492995"
-  },
-  {
-    "id": "Drogerie -> Specials-28125086",
-    "code": null,
-    "url": "https://www.mpreis.at/shop/c/28125086"
   },
   {
     "id": "Drogerie -> Pflege -> Zahn- & Mundpflege-34880725",
@@ -695,9 +625,9 @@
     "url": "https://www.mpreis.at/shop/c/19001168"
   },
   {
-    "id": "Drogerie -> Haustiere -> Vogelfutter-45585837",
-    "code": "93",
-    "url": "https://www.mpreis.at/shop/c/45585837"
+    "id": "Drogerie -> Haustiere -> Tierzubehör-8658020",
+    "code": null,
+    "url": "https://www.mpreis.at/shop/c/8658020"
   },
   {
     "id": "Drogerie -> Haustiere -> Tierstreu-51514384",
@@ -790,11 +720,6 @@
     "url": "https://www.mpreis.at/shop/c/21051096"
   },
   {
-    "id": "Drogerie -> Gutscheine-19300522",
-    "code": null,
-    "url": "https://www.mpreis.at/shop/c/19300522"
-  },
-  {
     "id": "Drogerie -> Blumen -> Zimmerpflanzen-12666122",
     "code": "81",
     "url": "https://www.mpreis.at/shop/c/12666122"
@@ -808,21 +733,6 @@
     "id": "Drogerie -> Blumen -> Pflanzenzubehör-12464916",
     "code": "81",
     "url": "https://www.mpreis.at/shop/c/12464916"
-  },
-  {
-    "id": "Drogerie -> Blumen -> Kränze & Gestecke-16922532",
-    "code": "81",
-    "url": "https://www.mpreis.at/shop/c/16922532"
-  },
-  {
-    "id": "Drogerie -> Blumen -> Freilandpflanzen-29178071",
-    "code": "81",
-    "url": "https://www.mpreis.at/shop/c/29178071"
-  },
-  {
-    "id": "Drogerie -> Blumen -> Blumensamen-14238966",
-    "code": "81",
-    "url": "https://www.mpreis.at/shop/c/14238966"
   },
   {
     "id": "Drogerie -> Baby -> Windeln-31447257",
@@ -843,6 +753,101 @@
     "id": "Drogerie -> Baby -> Babypflege-6782753",
     "code": "79",
     "url": "https://www.mpreis.at/shop/c/6782753"
+  },
+  {
+    "id": "Lebensmittel -> To-Go-6920583",
+    "code": "30",
+    "url": "https://www.mpreis.at/shop/c/6920583"
+  },
+  {
+    "id": "Lebensmittel -> Obst -> Steinobst-44669355",
+    "code": "00",
+    "url": "https://www.mpreis.at/shop/c/44669355"
+  },
+  {
+    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Suppen-45429089",
+    "code": "57",
+    "url": "https://www.mpreis.at/shop/c/45429089"
+  },
+  {
+    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Saucen-18573555",
+    "code": "57",
+    "url": "https://www.mpreis.at/shop/c/18573555"
+  },
+  {
+    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Konserven-30932656",
+    "code": "57",
+    "url": "https://www.mpreis.at/shop/c/30932656"
+  },
+  {
+    "id": "Lebensmittel -> Konserven, Suppen & Fertiggerichte -> Fertiggerichte-5812424",
+    "code": "54",
+    "url": "https://www.mpreis.at/shop/c/5812424"
+  },
+  {
+    "id": "Lebensmittel -> Fisch -> Fisch-49778040",
+    "code": "39",
+    "url": "https://www.mpreis.at/shop/c/49778040"
+  },
+  {
+    "id": "Getränke -> Spirituosen -> Wermut-19370553",
+    "code": "24",
+    "url": "https://www.mpreis.at/shop/c/19370553"
+  },
+  {
+    "id": "Getränke -> Sirup-5799806",
+    "code": "20",
+    "url": "https://www.mpreis.at/shop/c/5799806"
+  },
+  {
+    "id": "Getränke -> Mineralwasser-6363171",
+    "code": "26",
+    "url": "https://www.mpreis.at/shop/c/6363171"
+  },
+  {
+    "id": "Getränke -> Eistee-14897036",
+    "code": "20",
+    "url": "https://www.mpreis.at/shop/c/14897036"
+  },
+  {
+    "id": "Getränke -> Cola & Limonaden-29236807",
+    "code": "20",
+    "url": "https://www.mpreis.at/shop/c/29236807"
+  },
+  {
+    "id": "Drogerie -> Tchibo – Eduscho-51492995",
+    "code": "22",
+    "url": "https://www.mpreis.at/shop/c/51492995"
+  },
+  {
+    "id": "Drogerie -> Specials-28125086",
+    "code": null,
+    "url": "https://www.mpreis.at/shop/c/28125086"
+  },
+  {
+    "id": "Drogerie -> Haustiere -> Vogelfutter-45585837",
+    "code": "93",
+    "url": "https://www.mpreis.at/shop/c/45585837"
+  },
+  {
+    "id": "Drogerie -> Gutscheine-19300522",
+    "code": null,
+    "url": "https://www.mpreis.at/shop/c/19300522"
+  },
+  {
+    "id": "Drogerie -> Blumen -> Kränze & Gestecke-16922532",
+    "code": "81",
+    "url": "https://www.mpreis.at/shop/c/16922532"
+  },
+  {
+    "id": "Drogerie -> Blumen -> Freilandpflanzen-29178071",
+    "code": "81",
+    "url": "https://www.mpreis.at/shop/c/29178071"
+  },
+  {
+    "id": "Drogerie -> Blumen -> Blumensamen-14238966",
+    "code": "81",
+    "url": "https://www.mpreis.at/shop/c/14238966"
   },
   {
     "id": "Getränke -> Energy- & Sportgetränke-17714924",
