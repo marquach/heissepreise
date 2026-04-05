@@ -34,7 +34,7 @@ exports.stores = {
         name: "MPREIS",
         budgetBrands: [],
         color: "rose",
-        defaultChecked: false,
+        defaultChecked: true,
         getUrl: (item) => `https://www.mpreis.at/shop/p/${item.id}`,
     },
     dm: {
@@ -101,6 +101,13 @@ exports.stores = {
         color: "stone",
         defaultChecked: false,
         getUrl: (item) => `https://www.muller.de/${item.url}`,
+    },
+    eurospin: {
+        name: "Eurospin",
+        budgetBrands: [],
+        color: "red",
+        defaultChecked: false,
+        getUrl: (item) => `https://online.eurospin.com${item.url}`,
     },
 };
 

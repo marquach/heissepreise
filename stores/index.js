@@ -12,3 +12,4 @@ exports.penny = require("./penny");
 exports.mueller = require("./mueller");
 exports.muellerDe = require("./mueller-de");
 exports.bipa = require("./bipa");
+exports.eurospin = require("./eurospin");

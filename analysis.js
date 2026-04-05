@@ -293,7 +293,7 @@ exports.updateData = async function (dataDir, done) {
         storeFetchPromises.push(
             new Promise(async (resolve) => {
                 const start = performance.now();
-                const activeStores = ["billa", "hofer", "mpreis", "spar"];
+                const activeStores = ["billa", "hofer", "mpreis", "spar", "eurospin"];
                 if (!activeStores.includes(store)) {
                     console.log(`Skipping ${store}`);
                     pendingStores.delete(store);
